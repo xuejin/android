@@ -23,6 +23,7 @@
   <project path="device/common" name="device/common" />
   <project path="device/generic" name="CyanogenMod/android_device_generic" remote="github" />
   <project path="device/sample" name="device/sample" />
+  <project path="device/commtiva/z71" name="CyanogenMod/android_device_commtiva_z71" remote="github" revision="master" />
   <project path="device/geeksphone/one" name="CyanogenMod/android_device_geeksphone_one" remote="github" />
   <project path="device/htc/bravo" name="CyanogenMod/android_device_htc_bravo" remote="github" />
   <project path="device/htc/bravoc" name="CyanogenMod/android_device_htc_bravoc" remote="github" />
@@ -39,6 +40,8 @@
   <project path="device/htc/passion-common" name="CyanogenMod/android_device_htc_passion-common" remote="github" />
   <project path="device/htc/supersonic" name="CyanogenMod/android_device_htc_supersonic" remote="github" />
   <project path="device/htc/vision" name="CyanogenMod/android_device_htc_vision" remote="github" />
+  <project path="device/kyocera/m6000" name="koush/android_device_kyocera_m6000" remote="github" revision="master" />
+  <project path="device/motorola/backflip" name="koush/android_device_motorola_backflip" remote="github" revision="master" />
   <project path="device/motorola/sholes" name="CyanogenMod/android_device_motorola_sholes" remote="github" />
   <project path="device/motorola/umts_sholes" name="nadlabak/android_device_motorola_umts_sholes" remote="github" />
   <project path="device/samsung/bmlunlock" name="CyanogenMod/android_device_samsung_bmlunlock" remote="github" revision="master" />
