@@ -27,6 +27,7 @@
   <project path="device/bn/nookcolor" name="CyanogenMod/android_device_bn_nookcolor" remote="github" />
   <project path="device/commtiva/z71" name="CyanogenMod/android_device_commtiva_z71" remote="github" />
   <project path="device/geeksphone/one" name="CyanogenMod/android_device_geeksphone_one" remote="github" />
+  <project path="device/huawei/ascend" name="CyanogenMod/android_device_huawei_ascend" remote="github" />
   <project path="device/htc/common" name="CyanogenMod/android_device_htc_common" remote="github" />
   <project path="device/htc/ace" name="CyanogenMod/android_device_htc_ace" remote="github" />
   <project path="device/htc/bravo" name="CyanogenMod/android_device_htc_bravo" remote="github" />
@@ -196,7 +197,7 @@
   <project path="packages/apps/Stk" name="platform/packages/apps/Stk" />
   <project path="packages/apps/Tag" name="platform/packages/apps/Tag" />
   <project path="packages/apps/Torch" name="CyanogenMod/android_packages_apps_Torch" remote="github" />
-  <project path="packages/apps/VoiceDialer" name="platform/packages/apps/VoiceDialer" />
+  <project path="packages/apps/VoiceDialer" name="CyanogenMod/android_packages_apps_VoiceDialer" remote="github" />
   <project path="packages/experimental" name="platform/packages/experimental" />
   <project path="packages/inputmethods/LatinIME" name="nadlabak/android_packages_inputmethods_LatinIME" remote="github" />
   <project path="packages/providers/ApplicationsProvider" name="platform/packages/providers/ApplicationsProvider" />
@@ -228,7 +229,7 @@
   <project path="vendor/tmobile/apps/ThemeChooser" name="CyanogenMod/themes-platform-vendor-tmobile-apps-ThemeChooser" remote="github" revision="refs/heads/master" />
   <project path="vendor/tmobile/libs/com.tmobile.themes" name="themes-platform-vendor-tmobile-libs-com.tmobile.themes" remote="themes" revision="refs/heads/master" />
   <project path="vendor/tmobile/providers/ThemeManager" name="themes-platform-vendor-tmobile-providers-ThemeManager" remote="themes" revision="refs/heads/master" />
-  <project path="vendor/tmobile/themes/Androidian" name="themes-platform-vendor-tmobile-themes-Androidian" remote="themes" revision="refs/heads/experimental" />
+  <project path="vendor/tmobile/themes/Androidian" name="themes-platform-vendor-tmobile-themes-Androidian" remote="themes" revision="refs/heads/master" />
   <project path="vendor/tmobile/themes/Cyanbread" name="themes-platform-vendor-tmobile-themes-Cyanbread" remote="themes" revision="refs/heads/master" />
   <project path="vendor/tmobile/products/themes" name="themes-platform-vendor-tmobile-products-themes" remote="themes" revision="refs/heads/master" />
 
