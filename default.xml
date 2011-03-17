@@ -228,7 +228,7 @@
   <project path="system/extras" name="CyanogenMod/android_system_extras" remote="github" />
   <project path="system/netd" name="CyanogenMod/android_system_netd" remote="github" />
   <project path="system/vold" name="CyanogenMod/android_system_vold" remote="github" />
-  <project path="system/wlan/ti" name="nadlabak/system/wlan/ti" remote="github" revision="gingerbread" />
+  <project path="system/wlan/ti" name="nadlabak/android_system_wlan_ti" remote="github" revision="gingerbread" />
   <project path="vendor/motorola/umts_sholes" name="nadlabak/android_vendor_motorola_umts_sholes" remote="github" />
   <project path="vendor/cyanogen" name="nadlabak/android_vendor_cyanogen" remote="github" />
 
