@@ -257,7 +257,7 @@
   <project path="system/netd" name="CyanogenMod/android_system_netd" />
   <project path="system/su" name="CyanogenMod/android_system_su" />
   <project path="system/vold" name="CyanogenMod/android_system_vold" />
-  <project path="system/wlan/ti" name="android_system_wlan_ti" revision="gingerbread"/>
+  <project path="system/wlan/ti" name="nadlabak/android_system_wlan_ti" revision="gingerbread"/>
 
   <project path="vendor/motorola/umts_sholes" name="nadlabak/android_vendor_motorola_umts_sholes" />
 
