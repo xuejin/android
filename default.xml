@@ -94,7 +94,7 @@
   <project path="external/javassist" name="platform/external/javassist" remote="aosp" revision="refs/tags/android-4.0.4_r1.1" />
   <project path="external/jdiff" name="CyanogenMod/android_external_jdiff" />
   <project path="external/jhead" name="CyanogenMod/android_external_jhead" />
-  <project path="external/jpeg" name="CyanogenMod/android_external_jpeg" />
+  <project path="external/jpeg" name="CyanogenMod/android_external_jpeg-turbo" />
   <project path="external/jsilver" name="platform/external/jsilver" remote="aosp" revision="refs/tags/android-4.0.4_r1.1" />
   <project path="external/jsr305" name="CyanogenMod/android_external_jsr305" />
   <project path="external/junit" name="CyanogenMod/android_external_junit" />
@@ -235,7 +235,9 @@
   <project path="packages/apps/MusicFX" name="CyanogenMod/android_packages_apps_MusicFX" />
   <project path="packages/apps/Nfc" name="CyanogenMod/android_packages_apps_Nfc" />
   <project path="packages/apps/PackageInstaller" name="CyanogenMod/android_packages_apps_PackageInstaller" />
-  <project path="packages/apps/Phone" name="CyanogenMod/android_packages_apps_Phone" />
+
+<project path="packages/apps/Phone" name="nadlabak/android_packages_apps_Phone" />
+
   <project path="packages/apps/Protips" name="CyanogenMod/android_packages_apps_Protips" />
   <project path="packages/apps/Provision" name="CyanogenMod/android_packages_apps_Provision" />
   <project path="packages/apps/QuickSearchBox" name="CyanogenMod/android_packages_apps_QuickSearchBox" />
@@ -256,7 +258,9 @@
   <project path="packages/apps/VideoEditor" name="platform/packages/apps/VideoEditor" remote="aosp" revision="refs/tags/android-4.0.4_r1.1" />
   <project path="packages/apps/VoiceDialer" name="CyanogenMod/android_packages_apps_VoiceDialer" />
   <project path="packages/experimental" name="CyanogenMod/android_packages_experimental" />
-  <project path="packages/inputmethods/LatinIME" name="CyanogenMod/android_packages_inputmethods_LatinIME" />
+
+<project path="packages/inputmethods/LatinIME" name="nadlabak/android_packages_inputmethods_LatinIME" />
+
   <project path="packages/inputmethods/OpenWnn" name="platform/packages/inputmethods/OpenWnn" remote="aosp" revision="refs/tags/android-4.0.4_r1.1" />
   <project path="packages/inputmethods/PinyinIME" name="platform/packages/inputmethods/PinyinIME" remote="aosp" revision="refs/tags/android-4.0.4_r1.1" />
   <project path="packages/providers/ApplicationsProvider" name="CyanogenMod/android_packages_providers_ApplicationsProvider" />
