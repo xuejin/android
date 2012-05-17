@@ -172,7 +172,7 @@
   <project path="external/yaffs2" name="CyanogenMod/android_external_yaffs2" />
   <project path="external/zlib" name="CyanogenMod/android_external_zlib" />
 
-<project path="frameworks/base" name="nadlabak/android_frameworks_base" />
+<project path="frameworks/base" name="nadlabak/android_frameworks_base" revision="nothemes" />
 
   <project path="frameworks/compile/libbcc" name="CyanogenMod/android_frameworks_compile_libbcc" />
   <project path="frameworks/compile/linkloader" name="platform/frameworks/compile/linkloader" remote="aosp" revision="refs/tags/android-4.0.4_r1.2" />
@@ -241,7 +241,7 @@
   <project path="packages/apps/Provision" name="CyanogenMod/android_packages_apps_Provision" />
   <project path="packages/apps/QuickSearchBox" name="CyanogenMod/android_packages_apps_QuickSearchBox" />
 
-<project path="packages/apps/Settings" name="nadlabak/android_packages_apps_Settings" />
+<project path="packages/apps/Settings" name="nadlabak/android_packages_apps_Settings" revision="nothemes" />
 
   <project path="packages/apps/SoundRecorder" name="CyanogenMod/android_packages_apps_SoundRecorder" />
   <project path="packages/apps/SpareParts" name="platform/packages/apps/SpareParts" remote="aosp" revision="refs/tags/android-4.0.4_r1.2" />
@@ -284,7 +284,7 @@
   <project path="packages/wallpapers/PhaseBeam" name="platform/packages/wallpapers/PhaseBeam" remote="aosp" revision="refs/tags/android-4.0.4_r1.2" />
   <project path="prebuilt" name="CyanogenMod/android_prebuilt" />
 
-<project path="vendor/cm" name="nadlabak/android_vendor_cm" />
+<project path="vendor/cm" name="nadlabak/android_vendor_cm" revision="nothemes" />
 
   <project path="vendor/qcom/opensource/omx/mm-core" name="CyanogenMod/android_vendor_qcom_opensource_omx_mm-core" />
   <project path="vendor/qcom/opensource/omx/mm-video" name="CyanogenMod/android_vendor_qcom_opensource_omx_mm-video" />
