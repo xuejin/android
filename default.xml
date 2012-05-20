@@ -316,7 +316,7 @@
   <project path="packages/apps/Tag" name="CyanogenMod/android_packages_apps_Tag" />
   <project path="packages/apps/Torch" name="CyanogenMod/android_packages_apps_Torch" />
 
-<project path="packages/apps/Usb" name="nadlabak/android_packages_apps_Usb" revision="rewrite" />
+<project path="packages/apps/Usb" name="nadlabak/android_packages_apps_Usb" revision="gingerbread-clean" />
 
   <project path="packages/apps/VoiceDialer" name="CyanogenMod/android_packages_apps_VoiceDialer" />
   <project path="packages/experimental" name="CyanogenMod/android_packages_experimental" />
