@@ -315,7 +315,7 @@
   <project path="system/su" name="CyanogenMod/android_system_su" />
   <project path="system/vold" name="CyanogenMod/android_system_vold" />
 
-<project path="system/wlan/ti" name="nadlabak/android_system_wlan_ti" revision="gingerbread" />
+<project path="system/wlan/ti" name="tpruvot/android_system_wlan_ti" revision="gingerbread" />
 <project path="vendor/motorola/umts_sholes" name="nadlabak/android_vendor_motorola_umts_sholes" />
 <project path="android" name="nadlabak/android" />
 
