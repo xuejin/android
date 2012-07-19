@@ -237,8 +237,8 @@
   <project path="hardware/qcom/display" name="CyanogenMod/android_hardware_qcom_display" />
   <project path="hardware/qcom/gps" name="CyanogenMod/android_hardware_qcom_gps" />
   <project path="hardware/qcom/media" name="CyanogenMod/android_hardware_qcom_media" />
-  <project path="hardware/ril" name="CyanogenMod/android_hardware_ril" />
 
+<project path="hardware/ril" name="nadlabak/android_hardware_ril" />
 <project path="hardware/ti/omap3" name="nadlabak/android_hardware_ti_omap3-compat" />
 
   <project path="hardware/ti/omap4xxx" name="CyanogenMod/android_hardware_ti_omap4xxx" />
