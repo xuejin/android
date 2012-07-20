@@ -192,9 +192,7 @@
   <project path="external/webkit" name="CyanogenMod/android_external_webkit" />
   <project path="external/webp" name="CyanogenMod/android_external_webp" />
   <project path="external/webrtc" name="CyanogenMod/android_external_webrtc" />
-
-<project path="external/wpa_supplicant_6" name="nadlabak/android_external_wpa_supplicant_6" />
-
+  <project path="external/wpa_supplicant_6" name="CyanogenMod/android_external_wpa_supplicant_6" />
   <project path="external/wpa_supplicant_8" name="CyanogenMod/android_external_wpa_supplicant_8" />
   <project path="external/xmlwriter" name="CyanogenMod/android_external_xmlwriter" />
   <project path="external/yaffs2" name="CyanogenMod/android_external_yaffs2" />
@@ -230,9 +228,7 @@
 
   <project path="hardware/invensense" name="CyanogenMod/android_hardware_invensense" />
   <project path="hardware/libhardware" name="CyanogenMod/android_hardware_libhardware" />
-
-<project path="hardware/libhardware_legacy" name="nadlabak/android_hardware_libhardware_legacy" />
-
+  <project path="hardware/libhardware_legacy" name="CyanogenMod/android_hardware_libhardware_legacy" />
   <project path="hardware/msm7k" name="CyanogenMod/android_hardware_msm7k" />
   <project path="hardware/qcom/display" name="CyanogenMod/android_hardware_qcom_display" />
   <project path="hardware/qcom/gps" name="CyanogenMod/android_hardware_qcom_gps" />
@@ -288,6 +284,9 @@
   <project path="packages/apps/SpeechRecorder" name="CyanogenMod/android_packages_apps_SpeechRecorder" />
   <project path="packages/apps/Stk" name="CyanogenMod/android_packages_apps_Stk" />
   <project path="packages/apps/Tag" name="CyanogenMod/android_packages_apps_Tag" />
+
+<project path="packages/apps/Toggle2G" name="nadlabak/android_packages_apps_Toggle2G" revision="master" />
+
   <project path="packages/apps/Torch" name="CyanogenMod/android_packages_apps_Torch" />
 
 <project path="packages/apps/Usb" name="nadlabak/android_packages_apps_Usb" />
@@ -347,13 +346,13 @@
   <project path="system/media" name="CyanogenMod/android_system_media" />
   <project path="system/netd" name="CyanogenMod/android_system_netd" />
   <project path="system/security" name="CyanogenMod/android_system_security" />
-  <project path="system/su" name="CyanogenMod/android_system_su" />
+
+<project path="system/su" name="nadlabak/android_system_su" />
+
   <project path="system/vold" name="CyanogenMod/android_system_vold" />
   
 <project path="system/wlan/ti" name="tpruvot/android_system_wlan_ti" revision="gingerbread" />
-
-  <project path="vendor/cm" name="CyanogenMod/android_vendor_cm" />
-
+<project path="vendor/cm" name="nadlabak/android_vendor_cm" />
 <project path="vendor/motorola/umts_sholes" name="nadlabak/android_vendor_motorola_umts_sholes" />
 
 </manifest>
