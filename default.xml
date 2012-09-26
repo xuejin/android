@@ -84,6 +84,7 @@
 
 <project path="device/motorola/umts_sholes" name="nadlabak/android_device_motorola_umts_sholes" />
 
+  <project path="device/motorola/sunfire" name="CyanogenMod/android_device_motorola_sunfire" />
   <project path="device/motorola/zeppelin" name="CyanogenMod/android_device_motorola_zeppelin" />
   <project path="device/sample" name="CyanogenMod/android_device_sample" />
   <project path="device/samsung/aries-common" name="CyanogenMod/android_device_samsung_aries-common" />
