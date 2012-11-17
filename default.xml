@@ -319,6 +319,7 @@
 
 <project path="system/wlan/ti" name="tpruvot/android_system_wlan_ti" revision="gingerbread" />
 <project path="vendor/motorola/umts_sholes" name="nadlabak/android_vendor_motorola_umts_sholes" />
+<project path="kernel" name="nadlabak/kernel" revision="master" />
 <project path="android" name="nadlabak/android" />
 
 </manifest>
