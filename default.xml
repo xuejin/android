@@ -264,8 +264,8 @@
 
 <project path="system/bluetooth" name="nadlabak/android_system_bluetooth" />
 <project path="system/core" name="nadlabak/android_system_core" />
+<project path="system/extras" name="nadlabak/android_system_extras" />
 
-  <project path="system/extras" name="CyanogenMod/android_system_extras" />
   <project path="system/media" name="CyanogenMod/android_system_media" />
   <project path="system/netd" name="CyanogenMod/android_system_netd" />
   <project path="system/su" name="CyanogenMod/android_system_su" />
