@@ -285,6 +285,7 @@
 
   <project path="vendor/tmobile/products/themes" name="CyanogenMod/android_vendor_tmobile_products_themes" />
 
-  <project path="android" name="nadlabak/android" />
+<project path="kernel" name="nadlabak/kernel" revision="master" />
+<project path="android" name="nadlabak/android" />
 
 </manifest>
