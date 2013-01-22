@@ -227,8 +227,8 @@
   <project path="packages/apps/CMWallpapers" name="CyanogenMod/android_packages_apps_CMWallpapers" />
 
 <project path="packages/apps/CMFileManager" name="nadlabak/android_packages_apps_CMFileManager" />
+<project path="packages/apps/Contacts" name="nadlabak/android_packages_apps_Contacts" />
 
-  <project path="packages/apps/Contacts" name="CyanogenMod/android_packages_apps_Contacts" />
   <project path="packages/apps/DeskClock" name="CyanogenMod/android_packages_apps_DeskClock" />
 
 <project path="packages/apps/DSPManager" name="nadlabak/android_packages_apps_DSPManager" />
