@@ -188,7 +188,7 @@
 
   <project path="packages/apps/CertInstaller" name="CyanogenMod/android_packages_apps_CertInstaller" />
 
-<project path="packages/apps/CMParts" name="nadlabak/android_packages_apps_CMParts" />
+<project path="packages/apps/CMParts" name="xuejin/android_packages_apps_CMParts" />
 
   <project path="packages/apps/CMScreenshot" name="CyanogenMod/android_packages_apps_CMScreenshot" />
   <project path="packages/apps/CMStats" name="CyanogenMod/android_packages_apps_CMStats" />
@@ -201,7 +201,7 @@
   <project path="packages/apps/DeskClock" name="CyanogenMod/android_packages_apps_DeskClock" />
   <project path="packages/apps/DockAudio" name="CyanogenMod/android_packages_apps_DockAudio" />
 
-<project path="packages/apps/DSPManager" name="nadlabak/android_packages_apps_DSPManager" revision="wip" />
+<project path="packages/apps/DSPManager" name="xuejin/android_packages_apps_DSPManager" revision="wip" />
 
   <project path="packages/apps/Email" name="CyanogenMod/android_packages_apps_Email" />
   <project path="packages/apps/FileManager" name="CyanogenMod/android_packages_apps_FileManager" />
@@ -217,14 +217,14 @@
   <project path="packages/apps/PackageInstaller" name="CyanogenMod/android_packages_apps_PackageInstaller" />
   <project path="packages/apps/Pacman" name="CyanogenMod/android_packages_apps_Pacman" />
 
-<project path="packages/apps/Phone" name="nadlabak/android_packages_apps_Phone" revision="gingerbread-clean"/>
+<project path="packages/apps/Phone" name="xuejin/android_packages_apps_Phone" revision="gingerbread-clean"/>
 
   <project path="packages/apps/Protips" name="CyanogenMod/android_packages_apps_Protips" />
   <project path="packages/apps/Provision" name="CyanogenMod/android_packages_apps_Provision" />
   <project path="packages/apps/QuickSearchBox" name="CyanogenMod/android_packages_apps_QuickSearchBox" />
   <project path="packages/apps/SamsungServiceMode" name="CyanogenMod/android_packages_apps_SamsungServiceMode" />
 
-<project path="packages/apps/Settings" name="nadlabak/android_packages_apps_Settings" />
+<project path="packages/apps/Settings" name="xuejin/android_packages_apps_Settings" />
 
   <project path="packages/apps/SoundRecorder" name="CyanogenMod/android_packages_apps_SoundRecorder" />
   <project path="packages/apps/Superuser" name="CyanogenMod/android_packages_apps_Superuser" />
@@ -235,7 +235,7 @@
 
   <project path="packages/apps/Torch" name="CyanogenMod/android_packages_apps_Torch" />
 
-<project path="packages/apps/Usb" name="nadlabak/android_packages_apps_Usb" revision="gingerbread-clean" />
+<project path="packages/apps/Usb" name="xuejin/android_packages_apps_Usb" revision="gingerbread-clean" />
 
   <project path="packages/apps/VoiceDialer" name="CyanogenMod/android_packages_apps_VoiceDialer" />
   <project path="packages/experimental" name="CyanogenMod/android_packages_experimental" />
